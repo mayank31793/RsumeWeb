@@ -1,0 +1,13 @@
+.ProfileName{
+	color: #ffffff;	
+}
+
+.main{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+
+.childLink{
+	padding: 5px 10px;
+}
